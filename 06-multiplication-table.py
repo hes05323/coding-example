@@ -16,6 +16,8 @@ while num_b<10:
 
 ## 구구단 만들기 선생님Ver.
 # dan=int(input("몇 단을 출력 하시겠습니까?"))
-# for num in range(1,10):
-#     print("{} * {} = {}".format(dan, num, dan*num))
-    
+# if dan>1 and dan<10:
+#     for num in range(1,10):
+#         print("{} * {} = {}".format(dan, num, dan*num))
+# else:
+#     print("2에서 9사이의 숫자를 넣어주세요")
