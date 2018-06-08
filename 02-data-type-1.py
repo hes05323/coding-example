@@ -5,12 +5,18 @@ print(1.5+2.1)
 # 문자 str - string
 print("hello")
 
-# print("hello" + "1")
-# print(int(4/2))
-# print(4//2)
+# 문자열 더하기
+print("hello" + "1")
 
-# print(float(2))
+# 정수 소수 간 변경
+print(int(4/2))
+print(4//2)
+print(float(2))
+
+# 문자열 숫자 간 변경
 print("1")
 print(int("1"))
 print(int(1.5))
 print(int("1.5"))
+# 1) 1
+# 2) error
