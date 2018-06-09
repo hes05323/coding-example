@@ -42,7 +42,7 @@ name8="tom"
 name9="john"
 name10="tom"
 
-name=hello_friends(name1)
+hello_friends(name1)
 hello_friends(name2)
 hello_friends(name3)
 hello_friends(name4)
